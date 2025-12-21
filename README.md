@@ -1,8 +1,16 @@
 <h1 align="center">Arthur Melo</h1>
-<h3 align="center">👨🏻‍💻 Desenvolvedor FullStack | Especialista em Integração de IA Generativa e APIs Escaláveis</h3>
+<h3 align="center">👨🏻‍💻 Desenvolvedor de Software FullStack </h3>
 
-<p>Olá, sou Arthur, tenho 28 anos, estou cursando Análise e desenvolvimento de sistemas e sou um Desenvolvedor Fullstack com expertise em Node.js, TypeScript e integração de IA
-Generativa, além de conhecimentos em React para criação de UI interativas. Seja bem vindo ao meu perfil! Dê uma olhada nos projetos abaixo 😉 </p>
+<p> Atualmente atuo desenvolvendo soluções escaláveis com foco em alta volumetria de dados e arquitetura de sistemas. Minha expertise combina o dinamismo do ecossistema **JavaScript/TypeScript** com a robustez do **Python**.
+
+🔭 **No momento:**
+- Trabalho profissionalmente mantendo e escalando sistemas SaaS com bases de dados de alto volume.
+- Foco em **Arquitetura Assíncrona** (Filas/Background Jobs), Otimização de SQL e Observabilidade.
+- Mantenho projetos pessoais explorando **Microsserviços**, **IoT** e **Integração com LLMs (IA)**.
+
+📫 **Contato:**
+- [LinkedIn](https://linkedin.com/in/arthur-melo-47040621a)
+</p>
 
 ###
 
